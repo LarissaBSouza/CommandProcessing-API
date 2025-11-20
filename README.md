@@ -32,7 +32,7 @@ A aplicação segue uma arquitetura em camadas clássica (Controller, Service, R
 ### Passos
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/LarissaBSouza/CommandProcessing-API.git](https://github.com/LarissaBSouza/CommandProcessing-API.git)
+    git clone https://github.com/LarissaBSouza/CommandProcessing-API.git
     ```
 2.  **Execute a aplicação:**
     No terminal (dentro da pasta do projeto), rode:
